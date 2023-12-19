@@ -4,15 +4,14 @@
 
 <p align="center">...</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustazs&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-gustazs.vercel.app/api/top-langs/?username=gustazs&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustazs&show_icons=true&count_private=true&hide_border=true&title_color=241BCA&icon_color=2216E5&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustazs&layout=compact&hide_border=true&title_color=241BCA&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+ 
  
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
@@ -23,7 +22,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://cdn.discordapp.com/attachments/866020073671229481/1186475705605832754/sonic-sonic-the-hedgehog.gif?ex=6593629b&is=6580ed9b&hm=b79150a89ddf073b76ef2a10e9a8e4b89fc8166b0d84eb0244647e36d4c3225f&" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
@@ -49,4 +48,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1506A9&height=120&section=footer"/>
